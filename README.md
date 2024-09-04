@@ -28,3 +28,10 @@ You can install the required Python packages using:
 
 ```bash
 pip install tensorflow numpy scikit-learn
+```
+
+
+LinkedIn: https://linkedin.com/in/muhammad-hasnain-kayani-820599273
+
+Email: muhammadhasnainkayani@gmail.com
+
